@@ -1,0 +1,23 @@
+## Sidebar settings
+title: Tomáš Kysela
+author: Tomáš Kysela
+copyright: '2023-{{ YEAR }}'
+profilePicture: images/profile.jpg
+
+## Social links
+socialIcons:
+  - icon: fab fa-github
+    title: GitHub
+    url: 'https://github.com/tomkys144/'
+  - icon: fab fa-gitlab
+    title: GitLab
+    url: 'https://gitlab.com/tomkys144/'
+  - icon: fab fa-linkedin
+    title: Linkedin
+    url: 'https://www.linkedin.com/in/tom%C3%A1%C5%A1-kysela-7078aa1b8/'
+  - icon: fa-brands fa-orcid
+    title: ORCID
+    url: 'https://orcid.org/0009-0003-3585-3695'
+  - icon: fas fa-envelope
+    title: e-mail
+    url: 'mailto:tomkys144@gmail.com'

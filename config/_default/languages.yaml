@@ -1,0 +1,8 @@
+en:
+  weight: 1
+  LanguageName: EN
+  contentDir: content/english
+cs:
+  weight: 2
+  LanguageName: CS
+  contentDir: content/czech

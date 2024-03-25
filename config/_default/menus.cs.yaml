@@ -1,0 +1,30 @@
+main:
+  - name: Domů
+    identifier: home
+    weight: 100
+    url: /
+  - name: Příspěvky
+    weight: 200
+    identifier: posts
+    url: /post/
+  - name: Portfolio
+    weight: 300
+    identifier: portfolio
+    url: /portfolio/
+  - name: O mně
+    weight: 400
+    identifier: about
+    url: /about/
+  - name: Úspěchy
+    weight: 500
+    identifier: accomplishments
+  - name: Ocenění
+    weight: 510
+    identifier: awards
+    url: /awards/
+    parent: accomplishments
+  - name: Certifikace
+    weight: 520
+    identifier: certifications
+    url: /certifications/
+    parent: accomplishments
