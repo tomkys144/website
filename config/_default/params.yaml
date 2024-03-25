@@ -1,8 +1,14 @@
 ## Sidebar settings
 title: Tomáš Kysela
 author: Tomáš Kysela
-copyright: '2023-{{ YEAR }}'
 profilePicture: images/profile.jpg
+
+## Visual
+reversepagetitle: true
+favicon: favicons/
+
+## Code highlighting
+
 
 ## Social links
 socialIcons:

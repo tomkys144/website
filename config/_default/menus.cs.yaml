@@ -1,30 +1,40 @@
 main:
-  - name: Domů
+  - name: O mně
     identifier: home
     weight: 100
     url: /
+
   - name: Příspěvky
     weight: 200
     identifier: posts
-    url: /post/
+    url: /posts/
+
   - name: Portfolio
     weight: 300
     identifier: portfolio
     url: /portfolio/
-  - name: O mně
-    weight: 400
-    identifier: about
-    url: /about/
+
   - name: Úspěchy
-    weight: 500
+    weight: 400
     identifier: accomplishments
   - name: Ocenění
-    weight: 510
+    weight: 410
     identifier: awards
     url: /awards/
     parent: accomplishments
   - name: Certifikace
-    weight: 520
+    weight: 420
     identifier: certifications
     url: /certifications/
     parent: accomplishments
+
+footer:
+  - name: Made with Hugo
+    weight: 1
+    identifier: hugo
+    url: https://gohugo.io
+
+  - name: Theme Anatole
+    weight: 2
+    identifier: theme
+    url: https://github.com/lxndrblz/anatole
