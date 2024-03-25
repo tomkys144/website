@@ -11,9 +11,6 @@ enableRobotsTXT: true
 ## Enable Disqus
 # disqusShortname:
 
-## Google Analytics
-gtagId: G-T4GY5Z5JWM
-
 ## Syntax highlighting
 pygmentsUseClasses: true
 pygmentsCodeFences: true

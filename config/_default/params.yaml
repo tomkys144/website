@@ -7,7 +7,8 @@ profilePicture: images/profile.jpg
 reversepagetitle: true
 favicon: favicons/
 
-## Code highlighting
+## Google Analytics
+gtagId: G-T4GY5Z5JWM
 
 
 ## Social links

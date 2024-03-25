@@ -2,17 +2,17 @@ main:
   - name: O mně
     identifier: home
     weight: 100
-    url: /
+    url: /cs/
 
   - name: Příspěvky
     weight: 200
     identifier: posts
-    url: /posts/
+    url: /cs/posts/
 
   - name: Portfolio
     weight: 300
     identifier: portfolio
-    url: /portfolio/
+    url: /cs/portfolio/
 
   - name: Úspěchy
     weight: 400
@@ -20,12 +20,12 @@ main:
   - name: Ocenění
     weight: 410
     identifier: awards
-    url: /awards/
+    url: /cs/awards/
     parent: accomplishments
   - name: Certifikace
     weight: 420
     identifier: certifications
-    url: /certifications/
+    url: /cs/certifications/
     parent: accomplishments
 
 footer:
