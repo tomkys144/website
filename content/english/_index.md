@@ -3,7 +3,7 @@ title = "About me"
 date = "2024-03-25"
 +++
 
-Hi, my name is Tomas, in scout world known as Kyslík. Currently I am a student of Medical electronics and bioinformatics at [Faculty of Electrical Engineering,Czech Technical University](https://fel.cvut.cz).
+Hi, my name is Tomas, also known by my nickname Kyslík. Currently I am a studeodent of Medical electronics and bioinformatics at [Faculty of Electrical Engineering, Czech Technical University](https://fel.cvut.cz).
 
 I enjoy hardware development and embedded programming. Currently one of my big passions is smart-home, mainly using open-source hardware and software. Sometimes I talk about this passion in my hackerspace [Pátek](https://patekvpatek.cz)
 

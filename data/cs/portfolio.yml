@@ -1,0 +1,17 @@
+portfolioitems:
+  # portfolio category
+  - title: Odborné práce
+    portfolioitem:
+      - name: Analýza EMG při hodnocení lokální fyzické zátěže
+        venue: ČVUT FEL
+        type: Bakalářská práce
+        language: česky
+        link: https://hdl.handle.net/10467/115198
+        linktext: 'Plný text na ČVUT DSpace'
+        year: '2024'
+        description: 'Detekce rizikových pracovních procesů je klíčová pro prevenci onemocnění z povolání spojených s nadměrnou dlouhodobou jednostrannou zátěží končetin. Tato práce zkoumá současnou metodiku měření pracovníků za účelem detekce rizikových procesů pomocí elektromyografie, z které se počítají vynaložené síly. Ty se spolu s počtem pohybů užívají k porovnání s hygienickými limity. Následně navrhuje novou poloautomatizovanou metodu detekce pohybových cyklů, kterou ověřuje na naměřených experimentálních datech.'
+        tags:
+          - EMG
+          - detekce pohybů
+          - MATLAB
+          - fyziologie práce

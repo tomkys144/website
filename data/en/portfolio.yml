@@ -1,0 +1,17 @@
+portfolioitems:
+  # portfolio category
+  - title: Research
+    portfolioitem:
+      - name: EMG analysis in the assessment of local physical load
+        venue: CTU FEE
+        type: Bachelor's thesis
+        language: czech
+        link: https://hdl.handle.net/10467/115198
+        linktext: 'Full text on CTU DSpace'
+        year: '2024'
+        description: 'Detection of high-risk work processes is crucial in preventing occupational diseases associated with prolonged one-sided strain on limbs. This thesis examines the current methodology of measuring workers to detect such processes using electromyography, from which exerted force is calculated. This force, in relation to a number of movements, is used in determining hygienic limits. Then, it proposes a new semi-automated method for detecting movement cycles, which is validated using experimental data.'
+        tags:
+          - EMG
+          - movement detection
+          - MATLAB
+          - work physiology
